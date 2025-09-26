@@ -6,7 +6,7 @@
 }
 
 body {
-  background: #222;
+  background:url(images/clouds-2716.jpg)no-repeat center/cover;
 }
 .card{
   width: 90%;
